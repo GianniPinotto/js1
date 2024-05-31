@@ -1,0 +1,3 @@
+Iitialization file for js1 repository.
+Done : git remote add origin git@github.com:GianniPinotto/js1.git
+
